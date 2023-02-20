@@ -49,7 +49,7 @@
   "devDependencies": {
     "@remirror/pm": "^2.0.3",
     "@remirror/react": "^2.0.25",
-    "@types/jsdom": "^16.2.13",
+    "@types/jsdom": "^20.0.0",
     "@types/react": "^18.0.6",
     "@types/react-dom": "^18.0.2",
     "jsdom": "^17.0.0",
